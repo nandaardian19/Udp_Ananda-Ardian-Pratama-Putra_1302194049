@@ -1,1 +1,1 @@
-# Udp_Ananda-Ardian-Pratama-Putra_1302194049
+Cara penggunaan Codenya adalah input integer 1- 10 otomatis program akan berjalan dan mengeluarkan output seperti pada slide
